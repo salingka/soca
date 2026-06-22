@@ -86,7 +86,7 @@ loginPass.addEventListener('keydown', (e) => {
 // ==========================================
 // --- STATE APLIKASI & ELEMEN DOM UTAMA ---
 // ==========================================
-const NAMA_TOKO = "CEO Photo Studio"; 
+const NAMA_TOKO = "SOCA"; 
 let daftarProduk = [];
 let keranjang = [];
 let totalBelanja = 0;
